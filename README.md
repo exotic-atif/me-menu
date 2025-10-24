@@ -1,4 +1,4 @@
-# me-menu ✨
+# Me Menu ✨
 
 **`me-menu`** is a **lightweight, standalone social floating button widget** that you can drop into **any web page**. It allows you to showcase your social links in a **clean, interactive, and fun way**. Perfect for personal websites, portfolios, blogs, or projects.
 
@@ -18,15 +18,15 @@
 
 ---
 
-## Demo
+## Demo ⚡
 
 ![me-menu demo](https://i.ibb.co/PvTHFbTs/me-menu-demo.gif "me-menu in action")
 
 ---
 
-## Installation
+## Installation via CDN 📦
 
-Include the `me-menu` script **before the closing `</body>` tag**:
+Include the **`me-menu`** script **in the `<head>` tag of your file** and thats it, me-menu will be loaded effortlessly:
 
 ```html
 <script src="https://cdn.jsdelivr.net/gh/exotic-atif/me-menu@main/v1.0/vertical.js"></script>
