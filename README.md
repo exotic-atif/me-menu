@@ -29,4 +29,4 @@
 Include the `me-menu` script **before the closing `</body>` tag**:
 
 ```html
-<script src="path/to/me-menu.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/exotic-atif/me-menu@main/v1.0/vertical.js"></script>
